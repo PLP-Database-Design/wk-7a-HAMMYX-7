@@ -20,11 +20,11 @@
 ✍️ Answer each question concisely and make sure your queries are clear and correct.  
 🗣️ Structure your responses clearly, and use comments if necessary to explain your approach.
 
---- 
+---
 
 ## 📚 Assignment Questions
 
----
+--
 
 ### Question 1 Achieving 1NF (First Normal Form) 🛠️
 Task:
@@ -40,7 +40,7 @@ Task:
 - In the table above, the **Products column** contains multiple values, which violates **1NF**.
 - **Write an SQL query** to transform this table into **1NF**, ensuring that each row represents a single product for an order
 
---- 
+--
 
 ### Question 2 Achieving 2NF (Second Normal Form) 🧩
 
